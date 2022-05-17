@@ -1,0 +1,47 @@
+4
+game human human human human
+move d2 d3
+move e13 e11
+move b4 c4
+move m7 l7
+undo 3
+yes
+yes
+yes
+yes
+move h13 h12
+move b4 c4
+move m9 l9
+move h2 h3
+move i13 i12
+move b9 c9
+move m7 l7
+move g1 n8
+move d13 d12
+undo 3
+yes
+yes
+yes
+move m7 l7
+move g1 n8
+move d13 d12
+resign
+resign
+resign
+game human human human human
+move f2 f3
+move g13 g12
+move b6 c6
+move m7 l7
+move h2 h3
+move g12 g11
+move a7 g1
+move m4 l4
+undo 2
+yes
+yes
+yes
+move a7 g1
+resign
+resign
+resign

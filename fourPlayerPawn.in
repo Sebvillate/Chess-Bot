@@ -1,0 +1,59 @@
+4
+game human human human human
+move g2 g4
+move j13 j11
+move b7 d7
+move m7 l7
+move g4 g5
+move j11 j10
+move d7 e7
+move m10 k10
+move g5 g6
+move j10 k9
+move e7 f7
+move n6 k9
+move g6 f7
+move e13 e12
+move a7 f7
+resign
+resign
+resign
+setup
++ Wk h1
++ Wp i2
++ Wp m5
++ Bk g13
++ Bp h13
++ Rk a8
++ Rp b8
++ Rr j13
++ Gk n7
++ Gb k5
++ Gb l5
++ Gn e6
+= green
+done
+game human human human human
+move e6 c7
+move i2 i3
+move i2 i4
+move i2 j3
+move i2 h3
+move m5 m6
+move h13 h12
+move h13 g12
+move h13 i12
+move h13 h11
+move g13 g12
+move b8 d8
+move b8 c8
+move b8 c9
+move b8 c7
+move k5 j5
+move k5 j6
+move k5 j4
+move k5 i5
+move n7 m6
+resign
+resign
+resign

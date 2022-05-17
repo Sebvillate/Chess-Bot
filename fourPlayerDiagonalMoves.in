@@ -1,0 +1,29 @@
+4
+setup
++ Wk k1
++ Wb d1
++ Rk a4
++ Bk d14
++ Rq a10
++ Bb d13
++ Bb j13
++ Bp m5
++ Bp i12
++ Gq n4
++ Gb m11
++ Gk n11
++ Gp m4
++ Gp m10
+done
+game human human human human
+move d1 a4
+move d1 e2
+move d13 a10
+move j13 k14
+move a10 d13
+move a10 a11
+move m11 j14
+move n4 k1
+resign
+resign
+resign

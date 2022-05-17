@@ -1,0 +1,89 @@
+4
+game human human human human
+move h2 h3
+move g13 g12
+move b8 c8
+move m7 l7
+move i1 g3
+move f14 h12
+move a9 c7
+move n6 l8
+move h1 j1
+move j1 i3
+move g14 e14
+move e14 f12
+move a8 a10
+move a10 c9
+move n7 n5
+move n5 l6
+move h1 j1
+move g14 e14
+move a8 a10
+move n7 n5
+undo 4
+yes
+yes
+yes
+yes
+move h1 j1
+move g14 e14
+move a8 a10
+move n7 n5
+undo 4
+yes
+yes
+yes
+yes
+move k1 j1
+move d14 e14
+move a11 a10
+move n4 n5
+move j1 k1
+move e14 d14
+move a10 a11
+move n5 n4
+move h1 j1
+move h1 i1
+move g14 e14
+move g14 f14
+move a8 a10
+move a8 a9
+move n7 n5
+move n7 n6
+undo 12
+yes
+yes
+yes
+yes
+move h1 j1
+move g14 e14
+move a8 a10
+move n7 n5
+undo 4
+yes
+yes
+yes
+yes
+move e2 e3
+move j13 j12
+move b5 c5
+move m10 l10
+move f1 e2
+move i14 j13
+move a6 b5
+move n9 m10
+move e1 f3
+move j14 k12
+move a5 c4
+move n10 l11
+move g1 h2
+move h14 g13
+move a7 b8
+move n8 m7
+move h1 f1
+move g14 i14
+move a8 a6
+move n7 n9
+resign
+resign
+resign

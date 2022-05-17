@@ -1,0 +1,14 @@
+2
+game human human
+move g1 f3
+move g8 f6
+move f3 d4
+move f6 d5
+move d4 e6
+move d5 e3
+move e6 g7
+move f8 g7
+move b1 b3
+move b1 c3
+move e3 g2
+resign

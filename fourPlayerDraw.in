@@ -1,0 +1,18 @@
+4
+setup
+zoom 4
+zoom 2
++ Bk e1
+clear
++ Bk e1
++ Wk h8
++ Rk j10
++ Gk i12
+done
+game human human human human
+zoom 1
+draw
+yes
+yes
+yes
+yes

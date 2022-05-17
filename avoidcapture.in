@@ -1,0 +1,15 @@
+2
+setup
++ K a1
++ k a8
++ R c3 
++ p f3
++ p a7
++ n b8
++ n g6
++ R h4
+= black
+done
+game computer[3] computer[3]
+move
+move

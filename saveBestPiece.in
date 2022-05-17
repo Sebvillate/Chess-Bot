@@ -1,0 +1,16 @@
+2
+setup
++ Q a2
++ P a3
++ P b3
++ r g2
++ r g1
++ r h2
++ k h1
++ N h8
++ K a8
++ R a5
++ b d8
+done 
+game computer[3] computer[3]
+move

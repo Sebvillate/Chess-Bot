@@ -1,0 +1,48 @@
+4
+setup
++ Wk d1
+done
++ Bk f1
+done
++ Rk h1
+done
++ Gk j1
++ Gk k1
+done
+- k1
++ Wp e1
+done
+- e1
++ Wp e14
+done
+- e14
++ Wp a7
+done
+- a7
++ Wp n7
+done
+- n7
++ Gn e3
+done
+- e3
++ Rr h2
++ Gr h3
++ Wr h4
++ Br h5
+= green
++ BBk e9
++ Bb ee10
++ Hr e10
++ Be e10
+- e100
+- 99
+done
+game human
+game human human
+game human human human
+game human human human human human
+game human human computer[5] human
+game human human human human
+resign
+resign
+resign

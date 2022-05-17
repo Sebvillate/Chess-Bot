@@ -1,0 +1,37 @@
+4
+setup
++ Wk d1
++ Bk n11
++ Gk l11
++ Gp k12
++ Gp k11
++ Wq m8
++ Wr b10
++ Bp d13
++ Gp e12
++ Bp f13
++ Bp g13
++ Gp g12
++ Rp d6
++ Rp d7
++ Rk a4
++ Wq b6
++ Wb f1
++ Wr k13
++ Rr j13
+done
+game human human human human
+move m8 m10
+move j13 g13
+undo 2
+yes
+yes
+move m8 m10
+move d7 e7
+move b6 d6
+move a4 a5
+move d6 e7
+move a5 a4
+move m10 f10
+move j13 i13
+move k13 i13

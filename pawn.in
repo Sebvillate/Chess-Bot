@@ -1,0 +1,33 @@
+2
+game human human
+move a2 a3
+move b7 b5
+move c2 c4
+move b5 c4
+move a3 a2
+move d2 d4
+move c4 d3
+move h2 h4
+move c7 c5
+move h4 h5
+move c5 c4
+move h5 h6
+move a7 a6
+move b2 b4
+move d7 d6
+move h6 g7
+move c4 b3
+move g8 h6
+move g7 g8 q
+move c4 c2
+move c4 b3
+resign
+setup
++ K a1
++ k a3
++ P a7
+done
+game human human
+move a7 a8
+r
+resign

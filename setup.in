@@ -1,0 +1,33 @@
+2
+setup
++ K a1
+done
++ k h8
++ k e5
+done
+- e5
++ P b1
+done
+- b1
++ P b8
+done
+- b8
++ N g6
+done
+- g6
++ R e1
++ R e4
+= black
++ c1 P
+- d1
+done
+game human
+game human human human
+game human computer[5]
+game human human
+resign
+game human human
+move f2 f3
+move e7 e6
+move g2 g4
+move d8 h4

@@ -1,0 +1,63 @@
+4
+game human human human human
+move f2 f4
+move g13 g11
+move b4 d4
+move m11 k11
+move f4 f5
+move g11 g10
+move d4 e4
+move k11 j11
+move f5 f6
+move g10 g9
+move e4 f4
+move j11 i11
+move f6 f7
+move g9 g8
+move f4 g4
+move i11 h11
+move f7 f8
+move g8 g7
+move g4 h4
+move h11 g11
+undo 20
+yes
+yes
+yes
+yes
+move f2 f4
+move e13 e11
+move b4 d4
+move m10 k10
+move f4 f5
+move e11 e10
+move d4 e4
+move k10 j10
+move f5 f6
+move e10 e9
+move e4 f4
+move j10 i10
+move f6 f7
+move e9 e8
+move f4 g4
+move i10 h10
+move f7 e8
+move h13 h11
+move g4 h4
+move h10 g11
+undo 8
+yes
+yes
+yes
+yes
+move f6 f7
+move e9 e8
+move f4 g4
+move i10 h10
+move f7 e8
+move h13 h11
+move g4 h4
+move h10 g11
+resign
+resign
+resign
